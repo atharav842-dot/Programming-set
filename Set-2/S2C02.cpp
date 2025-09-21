@@ -1,3 +1,6 @@
+/*Write a program to reverse an array of size n using pointers (do not use indexing 
+like arr[i])*/
+
 #include <iostream>
 using namespace std;
 
