@@ -1,1 +1,1 @@
-# Programming-set(1&2) (C++ lab)
+# Programming-set(C++ lab)
