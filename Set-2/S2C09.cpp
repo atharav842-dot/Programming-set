@@ -26,13 +26,5 @@ int main() {
         cout << "Student " << i+1 << ": " << *(students + i) << endl;
     }
     
-    cout << "\nAlternative pointer notation:" << endl;
-    
-    const char** ptr = students;
-    for(int i = 0; i < 5; i++) {
-        cout << "Student " << i+1 << ": " << *ptr << endl;
-        ptr++; pointer
-    }
-    
     return 0;
 }
